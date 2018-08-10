@@ -17,7 +17,7 @@ function addElementToEndOfArray(array,element)
 function removeElementFromEndOfArray(array)
 {
   
-}
+
 }
 
 function destructivelyAddElementToBeginningOfArray(chocolateBars,element)
